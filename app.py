@@ -3,4 +3,4 @@ age = int(input("Alright, pleasure to know you, how old are you name"))
 gender = input("Your gender:")
 
 #print out the inputs
-print("Hello {}  now you are {} years old".format(name, age))
+print("Hello {} you are {} aged {} years old".format(name,gender, age))
